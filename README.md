@@ -1,0 +1,2 @@
+# gorsel_vize_odevim
+gorsel_vize_odevim
